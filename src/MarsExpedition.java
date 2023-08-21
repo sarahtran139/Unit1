@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class MarsExpedition {
 
-    public marsExpedition() {
+    public MarsExpedition() {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Expedition prep program starting...");
@@ -75,3 +75,5 @@ public class MarsExpedition {
                 "\nGO GO GO!");
     }
 }
+
+
